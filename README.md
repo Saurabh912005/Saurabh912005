@@ -81,10 +81,12 @@
 
   <!-- Testing Tools -->
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="selenium" width="40" height="40"/>
+    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/e689ee96-3546-44ac-a976-cec9ec4a3c0b" />
+
   </a>
   <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/JMeter_Logo.png" alt="jmeter" width="40" height="40"/>
+    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/7e12c0e9-7882-4eab-ba21-069a1cea9912" />
+
   </a>
 
   <!-- Cloud & Version Control -->
