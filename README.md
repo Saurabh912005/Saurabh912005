@@ -150,25 +150,23 @@
 
 ---
 
-## 🔥 Recent Activity
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR in quiz-app repository
-2. 💪 Opened new issue in spring-security-demo
-3. 🔄 Updated README in portfolio-website
-4. 📝 Committed to full-stack-projects
-5. ⭐ Starred awesome-java-resources
-<!--END_SECTION:activity-->
 
 ---
 
-## 🎯 Current Goals
+🎯 Current Goals
 
-- 🚀 Master **Docker** and **Kubernetes** for containerization
-- 📚 Deep dive into **System Design** principles
-- 🔒 Implement advanced **Spring Security** features
-- 🌐 Build **microservices** architecture
-- 📱 Create **cross-platform** mobile applications
+🛠️ Currently learning DevOps practices and CI/CD tooling
+
+🧪 Improve skills in Testing using Selenium and JMeter
+
+🚀 Master Docker and Kubernetes for containerization
+
+📚 Deep dive into System Design principles
+
+🔒 Implement advanced Spring Security features
+
+🌐 Build microservices architecture
 
 ---
 
