@@ -19,8 +19,15 @@
 ## Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="mailto:bt22ece026@iiitn.ac.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/your-profile" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/Saurabh192005/" target="blank">
+    <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="leetcode" height="30" width="30" />
+  </a>
 </p>
 
 ---
